@@ -1,0 +1,107 @@
+[
+  {
+    "path": "archives/colaborix-before-dark.tar.gz",
+    "bytes": 19890,
+    "sha256": "df17b6fd7034e51f9dfbf8e8bfadabe2fe67f1ef688a2ede7a537e1f80f88e96"
+  },
+  {
+    "path": "screenshots/colaborix-contact-mobile.png",
+    "bytes": 51947,
+    "sha256": "5a61cce0aad1d641f0f3319a69db606f7c8a1ea5e4323ba1557aced0a32ddcaa"
+  },
+  {
+    "path": "screenshots/colaborix-contact.png",
+    "bytes": 68760,
+    "sha256": "e6b8400b42123393aabce9fad9742b61088055fa128e1ec4366c006b2cd4e278"
+  },
+  {
+    "path": "screenshots/colaborix-dark-desktop.png",
+    "bytes": 360975,
+    "sha256": "1d57bf57516c89ad6b8b2e07f7837121618559079d09786013f370a378d094d6"
+  },
+  {
+    "path": "screenshots/colaborix-dark-full.png",
+    "bytes": 863682,
+    "sha256": "55c984c22e1bfe9d56c54837dc535129cc98961becd4e3d9905c13ca3d8b21eb"
+  },
+  {
+    "path": "screenshots/colaborix-dark-mobile.png",
+    "bytes": 161071,
+    "sha256": "71b5cb30dd140b45bd82e5e8a9d9de0bdc17314b2c9424ca71a5ef6a4cf3e0b8"
+  },
+  {
+    "path": "versions/colaborix-dark-v1.html",
+    "bytes": 294465,
+    "sha256": "db6e93023bfa921367c1c0d4a22c97433d9cf7f980ed9f9bee853def8e2a1d76"
+  },
+  {
+    "path": "versions/colaborix-dark.html",
+    "bytes": 294465,
+    "sha256": "db6e93023bfa921367c1c0d4a22c97433d9cf7f980ed9f9bee853def8e2a1d76"
+  },
+  {
+    "path": "screenshots/colaborix-desktop.png",
+    "bytes": 361951,
+    "sha256": "7d0484a200cca687a1f1062db45e9b9fa903fdbf988fdacce8a0a2a809190c0d"
+  },
+  {
+    "path": "screenshots/colaborix-light-sections.png",
+    "bytes": 73183,
+    "sha256": "30ea1acf27414a7033c824cf3ec22e805696be260e6fa6138c71de1b8434bd57"
+  },
+  {
+    "path": "screenshots/colaborix-mobile-menu.png",
+    "bytes": 20204,
+    "sha256": "a5ab324eaba9897b70cd82a280e76ee941e2db559f9111e2382240556fc70d65"
+  },
+  {
+    "path": "versions/colaborix-preview-v2.html",
+    "bytes": 294033,
+    "sha256": "ab7d40f81dff872333e0683262228dee3bc3b50ff3f301df0301e05f7c6b9c4a"
+  },
+  {
+    "path": "versions/colaborix-preview-v3-restored.html",
+    "bytes": 293802,
+    "sha256": "f6f842265957bf706d9ace67c7920a6149f3b82a017d8e43128b64818bb8912c"
+  },
+  {
+    "path": "versions/colaborix-preview-v3.html",
+    "bytes": 293802,
+    "sha256": "f6f842265957bf706d9ace67c7920a6149f3b82a017d8e43128b64818bb8912c"
+  },
+  {
+    "path": "versions/colaborix-preview-v4.html",
+    "bytes": 294033,
+    "sha256": "ab7d40f81dff872333e0683262228dee3bc3b50ff3f301df0301e05f7c6b9c4a"
+  },
+  {
+    "path": "versions/colaborix-preview-v5.html",
+    "bytes": 294791,
+    "sha256": "d528dd07192c9b39d61543f601e4655234e9056cf8f7a7fd99392a8bc3899f63"
+  },
+  {
+    "path": "versions/colaborix-preview.html",
+    "bytes": 294465,
+    "sha256": "db6e93023bfa921367c1c0d4a22c97433d9cf7f980ed9f9bee853def8e2a1d76"
+  },
+  {
+    "path": "versions/colaborix-v3-pale-text-only.html",
+    "bytes": 294137,
+    "sha256": "377203274fc39e370c1cde7806f3f4aac487df4368a219342591f41b95975fa8"
+  },
+  {
+    "path": "screenshots/colaborix-v3-text-comparison.png",
+    "bytes": 72708,
+    "sha256": "f318f798dfb9f5f5dbd0304c70fe2757d4c3eff32591fb344407d2dc809d490e"
+  },
+  {
+    "path": "versions/colaborix-v3-text-fixes.html",
+    "bytes": 294137,
+    "sha256": "377203274fc39e370c1cde7806f3f4aac487df4368a219342591f41b95975fa8"
+  },
+  {
+    "path": "references/colaborix_ai_programs.html",
+    "bytes": 28768,
+    "sha256": "4011920612a9d5e030d68df6597f93575f2ecbecba7c31fa0b001319555e9d93"
+  }
+]
